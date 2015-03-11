@@ -9,5 +9,8 @@
   "dependencies": {
     "debug": "1.0.2",
     "socket.io-parser": "2.2.2"
+  },
+  "devDependencies": {
+    "babel": "4.7.1"
   }
 }
